@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contact Reader</string>
+    <string name="welcome_to_second_activity">Welcome to second activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="changefragment">ChangeFragment</string>
+    <string name="call_main_activity">Call Main Activity</string>
+</resources>
